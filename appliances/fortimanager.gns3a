@@ -31,7 +31,7 @@
     "images": [
         {
             "filename": "FMG_VM64_KVM-v7.4.3-build2487-FORTINET.out.kvm.qcow2",
-            "version": "7.4.23",
+            "version": "7.4.3",
             "md5sum": "b01d9f86aa27c538407d518df1326863",
             "filesize": 346107904,
             "download_url": "https://support.fortinet.com/Download/FirmwareImages.aspx"
